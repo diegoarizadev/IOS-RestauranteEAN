@@ -2,7 +2,8 @@
 //  main.m
 //  Restaurante EAN
 //
-//  Created by n0rf3n on 7/05/15.
+//  Created by Developer Cymetria on 7/05/15.
+//  Copyright (c) 2015 Mintic. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
